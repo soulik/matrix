@@ -53,6 +53,7 @@ local scaleMatrix3 = M0.scaleZ(z)
 ## Skew
 ```lua
 local skewMatrix = M0.skew(x, y, z)
+```
 
 ## Transpose
 ```lua
