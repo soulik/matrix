@@ -316,4 +316,4 @@ local function matrix(m)
 	return m
 end
 
-math.matrix = matrix
+return matrix
